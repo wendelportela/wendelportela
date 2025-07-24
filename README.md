@@ -1,7 +1,7 @@
 ## Olá, meu nome é Wendel Portela
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendelportela&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendelportela&layout=compact)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Wendel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
